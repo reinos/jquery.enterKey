@@ -1,0 +1,25 @@
+{
+  "name": "enterKey",
+  "version": "1.0.0",
+  "homepage": "https://github.com/reinos/jquery.enterKey",
+  "authors": [
+    "Reinos <info@reinos.nl>"
+  ],
+  "description": "Elegant way of enter on an input element",
+  "main": [
+    "jquery.enterKey.js"
+  ],
+  "keywords": [
+    "enterKey",
+    "Keypress",
+    "reinos"
+  ],
+  "license": "MIT",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ]
+}
